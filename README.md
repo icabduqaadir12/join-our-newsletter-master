@@ -1,86 +1,101 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Your project name} | devChallenges</h1>
+<h1 align="center">Join Our Newsletter | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/join-our-newsletter" target="_blank">Join Our Newsletter</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge <a href="https://devchallenges.io/challenges/llKNYzM9xi8d3RmykVf6" target="_blank">Join Our Newsletter</a> from <a href="https://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://icabduqaadir12.github.io/join-our-newsletter-master/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/icabduqaadir12/join-our-newsletter-master">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenge/join-our-newsletter">
+    <a href="https://devchallenges.io/challenges/llKNYzM9xi8d3RmykVf6">
       Challenge
     </a>
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
+---
 
 ## Table of Contents
 
 - [Overview](#overview)
-  - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
-- [Built with](#built-with)
+  - [Screenshots](#screenshots)
+  - [What I Learned](#what-i-learned)
+  - [Useful Resources](#useful-resources)
+- [Built With](#built-with)
 - [Features](#features)
-- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
+- [Author](#author)
 
-<!-- OVERVIEW -->
+---
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+A responsive newsletter sign-up form built with pure HTML and CSS. This is a submission for the [Join Our Newsletter](https://devchallenges.io/challenges/llKNYzM9xi8d3RmykVf6) challenge on devChallenges.io. The layout adapts smoothly across desktop, tablet, and mobile devices.
 
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+### Screenshots
 
-- What have you learned/improved?
-- Your wisdom? :)
--->
+| Desktop                            | Tablet                            | Mobile                            |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+| ![Desktop View](design/desktop.jpg) | ![Tablet View](design/tablet.jpg) | ![Mobile View](design/mobile.jpg) |
 
-### What I learned
+> 💡 *Add a thumbnail image like `design/thumbnail.jpg` for a featured preview if desired.*
 
-<!-- Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge. -->
+---
 
-### Useful resources
+### What I Learned
 
-<!--
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
--->
+- How to build a fully responsive UI from a design file
+- Structuring semantic HTML5 forms
+- Styling layouts using Flexbox and media queries
+- Maintaining consistent spacing and typography
+- Publishing projects with GitHub Pages
 
-### Built with
+---
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+### Useful Resources
 
-- Semantic HTML5 markup
-- CSS custom properties
+- [MDN Web Docs](https://developer.mozilla.org/) – Reference for HTML and CSS
+- [CSS Tricks – Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [devChallenges.io Community](https://discord.gg/devchallenges) – Great for feedback and learning
+
+---
+
+## Built With
+
+- Semantic HTML5
+- CSS3 (with custom properties)
 - Flexbox
-- CSS Grid
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- Media queries
+- Mobile-first approach
+- [Google Fonts](https://fonts.google.com/)
+
+---
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+- Newsletter sign-up layout
+- Fully responsive: Desktop → Tablet → Mobile
+- Static form design (no JavaScript)
+- Clean, accessible design
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
+---
 
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+- [devChallenges.io](https://devchallenges.io) for the design and challenge idea
+- GitHub Pages for deployment
+- Google Fonts for typography
+
+---
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub: [@icabduqaadir12](https://github.com/icabduqaadir12)
+- Live Site: [icabduqaadir12.github.io/join-our-newsletter-master](https://icabduqaadir12.github.io/join-our-newsletter-master/)
