@@ -17,6 +17,7 @@
       main {
         max-width: 699px;
         width: 100%;
+        margin-top: -50px;
       }
 
       main section {
@@ -38,7 +39,9 @@
       }
 
       form {
-        padding: 20px;
+        width: 80%;
+        margin: auto;
+        padding: 30px;
         display: flex;
         flex-direction: column;
         border-radius: 20px;
@@ -51,7 +54,7 @@
         width: 100%;
         margin: 0 auto;
         margin-bottom: 10px;
-        padding: 15px 0;
+        padding: 13px 0;
         border-radius: 10px;
         outline: none;
       }
@@ -104,11 +107,11 @@
         }
 
         form {
-          padding: 10px;
+          padding: 15px;
         }
 
         form input {
-          padding: 10px 0;
+          padding: 8px 0;
         }
 
         .helper {
@@ -133,7 +136,7 @@
         }
 
         form {
-          padding: 10px;
+          padding: 18px;
         }
 
         form input {
