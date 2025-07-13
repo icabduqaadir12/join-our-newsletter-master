@@ -1,7 +1,7 @@
 <h1 align="center">Join Our Newsletter | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenges/llKNYzM9xi8d3RmykVf6" target="_blank">Join Our Newsletter</a> from <a href="https://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge <a href="https://devchallenges.io/challenge/join-our-newsletter" target="_blank">Join Our Newsletter</a> from <a href="https://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@ A responsive newsletter sign-up form built with pure HTML and CSS. This is a sub
 |-----------------------------------|-----------------------------------|-----------------------------------|
 | ![Desktop View](design/desktop.jpg) | ![Tablet View](design/tablet.jpg) | ![Mobile View](design/mobile.jpg) |
 
-> 💡 *Add a thumbnail image like `design/thumbnail.jpg` for a featured preview if desired.*
+> ![Project Thumbnail](thumbnail.jpg)
 
 ---
 
